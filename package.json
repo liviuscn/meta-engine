@@ -1,0 +1,22 @@
+{
+  "name": "meta-engine",
+  "version": "1.0.0",
+  "description": "a test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liviuscn/meta-engine.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "liviuscn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liviuscn/meta-engine/issues"
+  },
+  "homepage": "https://github.com/liviuscn/meta-engine#readme"
+}
